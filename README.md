@@ -38,6 +38,6 @@ The reports preserve source links and clearly distinguish seller claims, verifie
 
 ## Sharing
 
-This repository is intended to be **private**. A repository URL alone does not grant access. Invite the recipient's GitHub account as a collaborator before sending the link. Do not enable public hosting to share these private reports.
+This repository is **public**. Anyone can read both reports and download the shortlists without signing in or requesting collaborator access. Share [this repository link](https://github.com/adair-A/eagan-vehicle-research).
 
 
